@@ -28,9 +28,4 @@ Application deployed link : https://kawa-space-assignment-akd.herokuapp.com/
     4) react-redux : To connect redux to react
     
     
-  ------------------
-  
-  UI Screenshot :
-  
-  ![ss](https://user-images.githubusercontent.com/61588604/147842954-5e5e89ae-1148-4463-93f4-9bd88b55f34b.png)
-
+ 
