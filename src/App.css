@@ -1,0 +1,92 @@
+.mainDiv{
+    background: #E5E5E5;
+    height: 100vh;
+    overflow-x: hidden;
+
+    font-family: Roboto;
+    font-style: normal;
+}
+.name{
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 145%;
+    color: #000000;
+}
+
+.nav-link{
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 150%;
+    color: #000000;
+}
+
+
+/*---------------AllPerson.js  css------*/
+.email1{
+    font-size: 15px;
+    line-height: 150%;
+    color: #E16259;
+    margin-top: 5px;
+}
+
+.fullname1{
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 135%;
+    color: #000000;
+    /* color: seagreen; */
+}
+.gender1{
+    font-size: 14px;
+    line-height: 150%;
+    color: rgba(0, 0, 0, 0.6);
+    text-transform: capitalize;
+}
+
+
+.email2{
+    font-size: 15px;
+    line-height: 150%;
+    color: #ffffff;
+    margin-top: 5px;
+}
+
+.fullname2{
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 135%;
+    color: #ffffff;
+}
+.gender2{
+    font-size: 14px;
+    line-height: 150%;
+    color: #ffffff;
+    text-transform: capitalize;
+}
+
+/*----------- PersonInfo.js css-----------*/
+.image{
+    padding: 50px;
+}
+
+.image img{
+    border-radius: 50%;
+}
+
+.highlightedPersonName{
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 100%;
+    letter-spacing: -1.85px;
+    text-decoration-line: underline;
+    color: #E16259;
+}
+
+.highlightedPersonInfo{
+    font-size: 20px;
+}
+
+
+.cardbodyClass{
+    background-color: rebeccapurple;
+}
